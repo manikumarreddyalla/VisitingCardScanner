@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.minorproject.cardscannerai.app-mergeDebugResources-81:/values-v22/values-v22.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\allas\\.gradle\\caches\\8.9\\transforms\\39c5101ce1563f4ebc14886e0b907d57\\transformed\\appcompat-1.6.1\\res\\values-v22\\values-v22.xml",
+                    "from": {
+                        "startLines": "2,3,4,9",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,130,217,487",
+                        "endLines": "2,3,8,13",
+                        "endColumns": "74,86,12,12",
+                        "endOffsets": "125,212,482,764"
+                    }
+                }
+            ]
+        }
+    ]
+}

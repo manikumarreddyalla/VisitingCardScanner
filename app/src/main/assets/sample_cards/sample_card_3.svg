@@ -1,0 +1,10 @@
+<svg width="900" height="500" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100%" height="100%" fill="#eef4ff"/>
+  <text x="55" y="120" font-size="50" font-family="Arial">Rahul Verma</text>
+  <text x="55" y="180" font-size="32" font-family="Arial">Client Success Consultant</text>
+  <text x="55" y="230" font-size="30" font-family="Arial">BlueOrbit Consulting</text>
+  <text x="55" y="285" font-size="30" font-family="Arial">+44 20 7946 0958</text>
+  <text x="55" y="335" font-size="30" font-family="Arial">rahul.verma@blueorbit.co.uk</text>
+  <text x="55" y="385" font-size="28" font-family="Arial">www.blueorbit.co.uk</text>
+  <text x="55" y="435" font-size="24" font-family="Arial">221B Baker Street, London</text>
+</svg>

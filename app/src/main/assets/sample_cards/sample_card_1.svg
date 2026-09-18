@@ -1,0 +1,10 @@
+<svg width="900" height="500" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100%" height="100%" fill="#f7f7f7"/>
+  <text x="50" y="120" font-size="52" font-family="Arial">Aarav Mehta</text>
+  <text x="50" y="180" font-size="34" font-family="Arial">Senior Sales Manager</text>
+  <text x="50" y="230" font-size="32" font-family="Arial">Nimbus Tech Pvt Ltd</text>
+  <text x="50" y="290" font-size="30" font-family="Arial">+91 98765 43210</text>
+  <text x="50" y="340" font-size="30" font-family="Arial">aarav.mehta@nimbustech.com</text>
+  <text x="50" y="390" font-size="28" font-family="Arial">www.nimbustech.com</text>
+  <text x="50" y="440" font-size="24" font-family="Arial">14 MG Road, Bengaluru, India</text>
+</svg>
